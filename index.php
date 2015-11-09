@@ -4,3 +4,4 @@
 <section class="feature">add section feature</section>
 <section>hotfix 1</section>
 <section>hotfix 2</section>
+<section>hotfix 3</section>
