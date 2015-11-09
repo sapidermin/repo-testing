@@ -7,3 +7,4 @@
 <section>hotfix 3</section>
 <section>master 1</section>
 <section>master 2</section>
+<section>hotfix 4</section>
