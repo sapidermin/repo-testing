@@ -1,3 +1,3 @@
 <?php ?>
 <header>huda was here</header>
-<footer>footer</footer>
+<footer>footer feature</footer>
