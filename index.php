@@ -3,3 +3,4 @@
 <footer>footer feature</footer>
 <section class="feature">add section feature</section>
 <section>hotfix 1</section>
+<section>hotfix 2</section>
